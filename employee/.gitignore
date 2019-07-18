@@ -1,0 +1,11 @@
+.settings/
+.project
+employee-core/.settings/
+employee-core/.classpath
+employee-core/.project
+employee-ui/.metadata/
+employee-ui/.settings/
+employee-ui/.classpath
+employee-ui/.project
+employee-ui/.tern-project
+
